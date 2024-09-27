@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Trishna/static/css/main.bbe84f32.css",
-    "main.js": "/Trishna/static/js/main.c4864a19.js",
+    "main.js": "/Trishna/static/js/main.67c93237.js",
     "static/js/453.a9c89963.chunk.js": "/Trishna/static/js/453.a9c89963.chunk.js",
     "static/media/3.png": "/Trishna/static/media/3.afe7cb68a0b337d000f2.png",
     "static/media/13.png": "/Trishna/static/media/13.400b1141fa0d9ec793ab.png",
@@ -12,6 +12,7 @@
     "static/media/14.png": "/Trishna/static/media/14.d3132c6f8f132c56fbb8.png",
     "static/media/8.png": "/Trishna/static/media/8.b2c2c56482ba41e6d0af.png",
     "static/media/2.png": "/Trishna/static/media/2.ff4c9826f92a620ca4c7.png",
+    "static/media/ats kaif.pdf": "/Trishna/static/media/ats kaif.107ca2914e7a5679ab03.pdf",
     "static/media/6.png": "/Trishna/static/media/6.64ee8d0976e2233eefe9.png",
     "static/media/color-sharp.png": "/Trishna/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/11.png": "/Trishna/static/media/11.538f8093f61e8c6f4244.png",
@@ -29,7 +30,6 @@
     "static/media/ROBORACE-RULES.pdf": "/Trishna/static/media/ROBORACE-RULES.e1efd1370884fbc68b46.pdf",
     "static/media/LINE TRACER-rules.pdf": "/Trishna/static/media/LINE TRACER-rules.a0da8eb086ebdbae17d6.pdf",
     "static/media/BOT-A-MAZE-RULES.pdf": "/Trishna/static/media/BOT-A-MAZE-RULES.46b64490cddac4e7bfc1.pdf",
-    "static/media/Treasure Hunt - Rules.pdf": "/Trishna/static/media/Treasure Hunt - Rules.cb709e21942f09ced06b.pdf",
     "static/media/Rude-A-Cude-Rules.pdf": "/Trishna/static/media/Rude-A-Cude-Rules.196e982b1c3f9734b90c.pdf",
     "static/media/Young Heart.ttf": "/Trishna/static/media/Young Heart.7d77a992d272487c7488.ttf",
     "static/media/astro.png": "/Trishna/static/media/astro.9328856472eddfbd504a.png",
@@ -55,11 +55,11 @@
     "static/media/arrow1.svg": "/Trishna/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/Trishna/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.bbe84f32.css.map": "/Trishna/static/css/main.bbe84f32.css.map",
-    "main.c4864a19.js.map": "/Trishna/static/js/main.c4864a19.js.map",
+    "main.67c93237.js.map": "/Trishna/static/js/main.67c93237.js.map",
     "453.a9c89963.chunk.js.map": "/Trishna/static/js/453.a9c89963.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bbe84f32.css",
-    "static/js/main.c4864a19.js"
+    "static/js/main.67c93237.js"
   ]
 }
