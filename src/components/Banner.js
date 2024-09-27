@@ -66,7 +66,7 @@ export const Banner = () => {
                       Zones to inspire, Live models to educate and shows to enthrall. With the motto Conceive, Create and Conquer Trishna’24 promises to be the perfect platform
                       for students from across the country to showcase their talent and challenge themselves to think beyond the boundaries! To all the Engineers (irrespective of the department),
                       <br></br> <br></br>  Welcome! To the seasoned, welcome back, to this journey of exploration, revelation and awe.
-                      Come ___ NOVEMBER 2024, to our college, will be the epicenter of a scintillating Celebration of Technology, on ____ & ____ NOVEMBER
+                      Come ___ NOVEMBER 2024, to our college, will be the epicenter of a scintillating Celebration of Technology, on 18 & 19 OCTOBER
                   </p>
                   <button onClick={handleConnectClick}>Let’s Connect <ArrowRightCircle size={25} /></button>
                 </div>}
