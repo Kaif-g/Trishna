@@ -1,0 +1,121 @@
+.intro-animation {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff; /* Adjust as needed */
+    z-index: 1000;
+    overflow: hidden; /* Ensure no overflow creates unwanted space */
+    width: 100%;
+    height: 100%;
+}
+
+.animation-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.triangle-row {
+    display: flex;
+}
+
+.triangle-row-vertical {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.triangle {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    position: relative;
+    margin: 0; /* Remove margins to eliminate gaps */
+}
+
+.triangle-up {
+    border-bottom: 70px solid;
+    margin-bottom: 0; /* Adjust to remove space between triangles */
+}
+
+.triangle-down {
+    border-top: 70px solid;
+    margin-top: 0; /* Adjust to remove space between triangles */
+}
+
+.triangle-left {
+    border-right: -100px solid transparent;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+    border-left: 70px solid; /* Change this color to the desired one */
+    margin-left: 0; /* Adjust to position correctly */
+}
+
+.triangle-right {
+    border-left: -100px solid transparent;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+    border-right: 70px solid; /* Change this color to the desired one */
+    margin-right: 0; /* Adjust to position correctly */
+}
+
+.shade1 {
+    border-top-color: #1099b7; /* Blue shade */
+}
+
+.shade2 {
+    border-bottom-color: #0c889e; /* Blue shade */
+}
+
+.shade3 {
+    border-top-color: #31b4bd; /* Blue shade */
+}
+
+.shade4 {
+    border-bottom-color: #11e1e8; /* Blue shade */
+}
+
+.shade5 {
+    border-top-color: #1f98c1; /* Blue shade */
+}
+
+.shade6 {
+    border-right-color: #b09510; /* Orange shade */
+}
+
+.shade7 {
+    border-left-color: #d0d70b; /* Orange shade */
+}
+
+.shade8 {
+    border-right-color: #d9ff00; /* Orange shade */
+}
+
+.intro-text {
+    font-size: 5em; /* Adjust font size as needed */
+    font-weight: bold;
+    color: #333; /* Adjust color as needed */
+    margin-top: 20px; /* Adjust spacing as needed */
+    font-family: 'Young Heart', sans-serif; /* Update font family */
+    text-align: center;
+}
+
+.fade-out {
+    opacity: 0;
+    transition: opacity 1s ease-out;
+}
+
+body {
+    font-family: 'Young Heart', sans-serif;
+  }
+  
+  @font-face {
+    font-family: 'Young Heart';
+    src: url('../assets/font/Young\ Heart.ttf') format('truetype'); /* Adjust the file path and extension if needed */
+  }
+  
