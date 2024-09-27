@@ -30,7 +30,7 @@ import projectPdf06 from "../assets/pdf/QUIZAHOLIC-RULES.pdf";
 /* NON TECHNICAL*/ 
 
 import projectPdf1 from "../assets/pdf/Rude-A-Cude-Rules.pdf";
-import projectPdf2 from "../assets/pdf/Treasure Hunt - Rules.pdf";
+import projectPdf2 from "../assets/pdf/FRIENDLY RESUME.pdf";
 import projectPdf3 from "../assets/pdf/CROSSWORD AND SUDUKO - RULES.pdf";
 
 
