@@ -95,3 +95,4 @@ const IntroAnimation = ({ onAnimationComplete }) => {
 };
 
 export default IntroAnimation;
+
