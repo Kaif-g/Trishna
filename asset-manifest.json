@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Trishna/static/css/main.936002d7.css",
-    "main.js": "/Trishna/static/js/main.f8028be9.js",
+    "main.js": "/Trishna/static/js/main.05299f8d.js",
     "static/js/453.a9c89963.chunk.js": "/Trishna/static/js/453.a9c89963.chunk.js",
     "static/media/3.png": "/Trishna/static/media/3.afe7cb68a0b337d000f2.png",
     "static/media/012.png": "/Trishna/static/media/012.b727c341720694fa2241.png",
@@ -22,23 +22,24 @@
     "static/media/15.png": "/Trishna/static/media/15.99a95b78e758f79d1110.png",
     "static/media/19.png": "/Trishna/static/media/19.4854afb30787a23a800e.png",
     "static/media/1.png": "/Trishna/static/media/1.9075af53f94226f7c388.png",
-    "static/media/PRESENTATION RULES.pdf": "/Trishna/static/media/PRESENTATION RULES.0fcc5bcf0a6f2e3008ce.pdf",
+    "static/media/PRESENTATION RULES.pdf": "/Trishna/static/media/PRESENTATION RULES.de329639d1578e89a578.pdf",
     "static/media/COOK WITHOUT FIRE.pdf": "/Trishna/static/media/COOK WITHOUT FIRE.9598a3e65e331f792775.pdf",
+    "static/media/TRISHNA 2K24 POSTER.pdf": "/Trishna/static/media/TRISHNA 2K24 POSTER.3996fcac63195014a82a.pdf",
     "static/media/FRONTEND RULES.pdf": "/Trishna/static/media/FRONTEND RULES.db4a715d34d239eb9cb8.pdf",
     "static/media/circuitron-rules.pdf": "/Trishna/static/media/circuitron-rules.d22fb4e620bad34ede3c.pdf",
-    "static/media/TECH QUIZ - RULES.pdf": "/Trishna/static/media/TECH QUIZ - RULES.be942e6d4c2cdb8d9cb9.pdf",
+    "static/media/TECH QUIZ - RULES.pdf": "/Trishna/static/media/TECH QUIZ - RULES.ea5c7d4c67817af5f9f6.pdf",
     "static/media/CROSSWORD AND SUDUKO - RULES.pdf": "/Trishna/static/media/CROSSWORD AND SUDUKO - RULES.05d4935d58f0fe3bb9fe.pdf",
     "static/media/BOT-A-MAZE-RULES.pdf": "/Trishna/static/media/BOT-A-MAZE-RULES.4a25c53576a4dce95a07.pdf",
-    "static/media/CRACK THE CODE RULES.pdf": "/Trishna/static/media/CRACK THE CODE RULES.05f194b03a2ab22917e6.pdf",
-    "static/media/POSTER DESIGN RULES.pdf": "/Trishna/static/media/POSTER DESIGN RULES.17b777372d06217171d2.pdf",
+    "static/media/CRACK THE CODE RULES.pdf": "/Trishna/static/media/CRACK THE CODE RULES.2136c02f9ce642ad39b0.pdf",
+    "static/media/POSTER DESIGN RULES.pdf": "/Trishna/static/media/POSTER DESIGN RULES.442a15348e7daedd857e.pdf",
     "static/media/MOBLIE GAMEING RULES.pdf": "/Trishna/static/media/MOBLIE GAMEING RULES.d1950238cabcfed55463.pdf",
     "static/media/ROBORACE-RULES.pdf": "/Trishna/static/media/ROBORACE-RULES.64d0de0450d4f615b690.pdf",
     "static/media/MAD FOR CAD RULES.pdf": "/Trishna/static/media/MAD FOR CAD RULES.fd961062ef8bc9957007.pdf",
     "static/media/OVER DRIVE RULES.pdf": "/Trishna/static/media/OVER DRIVE RULES.d9f64d2876194e39ff24.pdf",
     "static/media/LINE TRACER-rules.pdf": "/Trishna/static/media/LINE TRACER-rules.3aa4d56db2ecdadefe53.pdf",
-    "static/media/CREATIVITE - O - ERA RULES.pdf": "/Trishna/static/media/CREATIVITE - O - ERA RULES.1882b93f78e543eda6a9.pdf",
     "static/media/PROJECT-O-ERA RULES.pdf": "/Trishna/static/media/PROJECT-O-ERA RULES.504bcbe2ed793711a60f.pdf",
     "static/media/Treasure Hunt - Rules.pdf": "/Trishna/static/media/Treasure Hunt - Rules.a0407a821e795ec50e0c.pdf",
+    "static/media/CREATIVITE - O - ERA RULES.pdf": "/Trishna/static/media/CREATIVITE - O - ERA RULES.bd5595fda4c44a3dbe10.pdf",
     "static/media/Rude-A-Cude-Rules.pdf": "/Trishna/static/media/Rude-A-Cude-Rules.349a42d50a6992a89143.pdf",
     "static/media/Young Heart.ttf": "/Trishna/static/media/Young Heart.7d77a992d272487c7488.ttf",
     "static/media/astro.png": "/Trishna/static/media/astro.9328856472eddfbd504a.png",
@@ -50,6 +51,7 @@
     "static/media/footer-bg.png": "/Trishna/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/Deptlogo.png": "/Trishna/static/media/Deptlogo.8e0a3ab0e4caf3b32355.png",
     "static/media/Trishnalogo.png": "/Trishna/static/media/Trishnalogo.a2968e6fb0757cec60c0.png",
+    "static/media/UPDATE SOON.pdf": "/Trishna/static/media/UPDATE SOON.ddd3051c2ad3abab188e.pdf",
     "static/media/techevnts.png": "/Trishna/static/media/techevnts.83c25c76421c02f23919.png",
     "static/media/robotic.png": "/Trishna/static/media/robotic.abd6dd80fa56b2e83d52.png",
     "static/media/nontech events.png": "/Trishna/static/media/nontech events.6a865a2a664856b361c3.png",
@@ -64,11 +66,11 @@
     "static/media/arrow1.svg": "/Trishna/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/Trishna/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.936002d7.css.map": "/Trishna/static/css/main.936002d7.css.map",
-    "main.f8028be9.js.map": "/Trishna/static/js/main.f8028be9.js.map",
+    "main.05299f8d.js.map": "/Trishna/static/js/main.05299f8d.js.map",
     "453.a9c89963.chunk.js.map": "/Trishna/static/js/453.a9c89963.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.936002d7.css",
-    "static/js/main.f8028be9.js"
+    "static/js/main.05299f8d.js"
   ]
 }
