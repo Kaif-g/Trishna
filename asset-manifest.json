@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Trishna/static/css/main.936002d7.css",
-    "main.js": "/Trishna/static/js/main.05299f8d.js",
+    "main.js": "/Trishna/static/js/main.6a9ab6f1.js",
     "static/js/453.a9c89963.chunk.js": "/Trishna/static/js/453.a9c89963.chunk.js",
     "static/media/3.png": "/Trishna/static/media/3.afe7cb68a0b337d000f2.png",
     "static/media/012.png": "/Trishna/static/media/012.b727c341720694fa2241.png",
@@ -28,14 +28,14 @@
     "static/media/FRONTEND RULES.pdf": "/Trishna/static/media/FRONTEND RULES.db4a715d34d239eb9cb8.pdf",
     "static/media/circuitron-rules.pdf": "/Trishna/static/media/circuitron-rules.d22fb4e620bad34ede3c.pdf",
     "static/media/TECH QUIZ - RULES.pdf": "/Trishna/static/media/TECH QUIZ - RULES.ea5c7d4c67817af5f9f6.pdf",
-    "static/media/CROSSWORD AND SUDUKO - RULES.pdf": "/Trishna/static/media/CROSSWORD AND SUDUKO - RULES.05d4935d58f0fe3bb9fe.pdf",
+    "static/media/CROSSWORD AND SUDUKO - RULES.pdf": "/Trishna/static/media/CROSSWORD AND SUDUKO - RULES.0672e18a519298f0e340.pdf",
     "static/media/BOT-A-MAZE-RULES.pdf": "/Trishna/static/media/BOT-A-MAZE-RULES.4a25c53576a4dce95a07.pdf",
     "static/media/CRACK THE CODE RULES.pdf": "/Trishna/static/media/CRACK THE CODE RULES.2136c02f9ce642ad39b0.pdf",
     "static/media/POSTER DESIGN RULES.pdf": "/Trishna/static/media/POSTER DESIGN RULES.442a15348e7daedd857e.pdf",
     "static/media/MOBLIE GAMEING RULES.pdf": "/Trishna/static/media/MOBLIE GAMEING RULES.d1950238cabcfed55463.pdf",
     "static/media/ROBORACE-RULES.pdf": "/Trishna/static/media/ROBORACE-RULES.64d0de0450d4f615b690.pdf",
     "static/media/MAD FOR CAD RULES.pdf": "/Trishna/static/media/MAD FOR CAD RULES.fd961062ef8bc9957007.pdf",
-    "static/media/OVER DRIVE RULES.pdf": "/Trishna/static/media/OVER DRIVE RULES.d9f64d2876194e39ff24.pdf",
+    "static/media/OVER DRIVE RULES.pdf": "/Trishna/static/media/OVER DRIVE RULES.b836911e98c515d724fc.pdf",
     "static/media/LINE TRACER-rules.pdf": "/Trishna/static/media/LINE TRACER-rules.3aa4d56db2ecdadefe53.pdf",
     "static/media/PROJECT-O-ERA RULES.pdf": "/Trishna/static/media/PROJECT-O-ERA RULES.504bcbe2ed793711a60f.pdf",
     "static/media/Treasure Hunt - Rules.pdf": "/Trishna/static/media/Treasure Hunt - Rules.a0407a821e795ec50e0c.pdf",
@@ -66,11 +66,11 @@
     "static/media/arrow1.svg": "/Trishna/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/Trishna/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.936002d7.css.map": "/Trishna/static/css/main.936002d7.css.map",
-    "main.05299f8d.js.map": "/Trishna/static/js/main.05299f8d.js.map",
+    "main.6a9ab6f1.js.map": "/Trishna/static/js/main.6a9ab6f1.js.map",
     "453.a9c89963.chunk.js.map": "/Trishna/static/js/453.a9c89963.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.936002d7.css",
-    "static/js/main.05299f8d.js"
+    "static/js/main.6a9ab6f1.js"
   ]
 }
